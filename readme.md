@@ -25,7 +25,7 @@ Easily set up a GPU mining server for XENBLOCKS mining. A single line of code in
 # XENBLOCKS - Effortless Multi-GPU Mining
 Same idea as above, but now you can run multi-GPU with one command (if you order such a setup).
 ```
-apt update && apt -y install wget && wget https://raw.githubusercontent.com/JozefJarosciak/xgpu/main/gpu2.sh && chmod +x gpu2.sh && ./gpu2.sh
+apt update && apt -y install wget && wget https://github.com/Mungangazed/XENGPUMiner/blob/main/gpu.sh && chmod +x gpu2.sh && ./gpu2.sh
 ```
 
 # XENBLOCKS - USEFUL COMMANDS 
